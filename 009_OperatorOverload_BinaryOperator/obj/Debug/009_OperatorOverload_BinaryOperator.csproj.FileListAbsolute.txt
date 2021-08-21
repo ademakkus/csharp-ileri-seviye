@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\009_OperatorOverload_BinaryOperator\bin\Debug\009_OperatorOverload_BinaryOperator.exe.config
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\009_OperatorOverload_BinaryOperator\bin\Debug\009_OperatorOverload_BinaryOperator.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\009_OperatorOverload_BinaryOperator\bin\Debug\009_OperatorOverload_BinaryOperator.pdb
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\009_OperatorOverload_BinaryOperator\obj\Debug\009_OperatorOverload_BinaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\009_OperatorOverload_BinaryOperator\obj\Debug\009_OperatorOverload_BinaryOperator.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\009_OperatorOverload_BinaryOperator\obj\Debug\009_OperatorOverload_BinaryOperator.pdb
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\009_OperatorOverload_BinaryOperator\obj\Debug\009_OperatorOverload_BinaryOperator.csproj.AssemblyReference.cache

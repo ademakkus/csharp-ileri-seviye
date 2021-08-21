@@ -1,0 +1,6 @@
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\Classsample\bin\Debug\Classsample.exe.config
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\Classsample\bin\Debug\Classsample.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\Classsample\bin\Debug\Classsample.pdb
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\Classsample\obj\Debug\002_ClassSample.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\Classsample\obj\Debug\Classsample.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\Classsample\obj\Debug\Classsample.pdb

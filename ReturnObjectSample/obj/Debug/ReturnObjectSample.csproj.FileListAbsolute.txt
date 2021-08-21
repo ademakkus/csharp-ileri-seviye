@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\ReturnObjectSample\bin\Debug\ReturnObjectSample.exe.config
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\ReturnObjectSample\bin\Debug\ReturnObjectSample.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\ReturnObjectSample\bin\Debug\ReturnObjectSample.pdb
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\ReturnObjectSample\obj\Debug\ReturnObjectSample.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\ReturnObjectSample\obj\Debug\ReturnObjectSample.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\ReturnObjectSample\obj\Debug\ReturnObjectSample.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\ReturnObjectSample\obj\Debug\ReturnObjectSample.pdb

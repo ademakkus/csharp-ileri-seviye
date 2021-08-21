@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\StaticDemo\bin\Debug\StaticDemo.exe.config
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\StaticDemo\bin\Debug\StaticDemo.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\StaticDemo\bin\Debug\StaticDemo.pdb
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\StaticDemo\obj\Debug\StaticDemo.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\StaticDemo\obj\Debug\StaticDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\StaticDemo\obj\Debug\StaticDemo.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\StaticDemo\obj\Debug\StaticDemo.pdb
