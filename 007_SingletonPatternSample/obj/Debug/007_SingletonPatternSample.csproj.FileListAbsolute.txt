@@ -1,0 +1,6 @@
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\007_SingletonPatternSample\bin\Debug\007_SingletonPatternSample.exe.config
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\007_SingletonPatternSample\bin\Debug\007_SingletonPatternSample.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\007_SingletonPatternSample\bin\Debug\007_SingletonPatternSample.pdb
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\007_SingletonPatternSample\obj\Debug\007_SingletonPatternSample.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\007_SingletonPatternSample\obj\Debug\007_SingletonPatternSample.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\007_SingletonPatternSample\obj\Debug\007_SingletonPatternSample.pdb

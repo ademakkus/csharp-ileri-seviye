@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\001_StructureSample\bin\Debug\001_StructureSample.exe.config
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\001_StructureSample\bin\Debug\001_StructureSample.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\001_StructureSample\bin\Debug\001_StructureSample.pdb
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\001_StructureSample\obj\Debug\001_StructureSample.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\001_StructureSample\obj\Debug\001_StructureSample.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\001_StructureSample\obj\Debug\001_StructureSample.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\001_StructureSample\obj\Debug\001_StructureSample.pdb

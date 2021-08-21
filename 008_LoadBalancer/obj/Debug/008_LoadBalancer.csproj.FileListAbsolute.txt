@@ -1,0 +1,6 @@
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\008_LoadBalancer\bin\Debug\008_LoadBalancer.exe.config
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\008_LoadBalancer\bin\Debug\008_LoadBalancer.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\008_LoadBalancer\bin\Debug\008_LoadBalancer.pdb
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\008_LoadBalancer\obj\Debug\008_LoadBalancer.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\008_LoadBalancer\obj\Debug\008_LoadBalancer.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\008_LoadBalancer\obj\Debug\008_LoadBalancer.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\003_DestructorExample\bin\Debug\003_DestructorExample.exe.config
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\003_DestructorExample\bin\Debug\003_DestructorExample.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\003_DestructorExample\bin\Debug\003_DestructorExample.pdb
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\003_DestructorExample\obj\Debug\003_DestructorExample.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\003_DestructorExample\obj\Debug\003_DestructorExample.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\003_DestructorExample\obj\Debug\003_DestructorExample.pdb
