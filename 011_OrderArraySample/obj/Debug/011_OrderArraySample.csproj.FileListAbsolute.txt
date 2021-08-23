@@ -1,0 +1,7 @@
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\011_OrderArraySample\obj\Debug\011_OrderArraySample.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\011_OrderArraySample\obj\Debug\011_OrderArraySample.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\011_OrderArraySample\bin\Debug\011_OrderArraySample.exe.config
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\011_OrderArraySample\bin\Debug\011_OrderArraySample.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\011_OrderArraySample\bin\Debug\011_OrderArraySample.pdb
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\011_OrderArraySample\obj\Debug\011_OrderArraySample.exe
+C:\Users\Hüseyin\source\repos\FatihDurgut_CSharp\011_OrderArraySample\obj\Debug\011_OrderArraySample.pdb
