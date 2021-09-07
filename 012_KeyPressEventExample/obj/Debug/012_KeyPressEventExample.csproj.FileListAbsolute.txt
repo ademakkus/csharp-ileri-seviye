@@ -1,0 +1,7 @@
+C:\Users\mypc\source\repos\csharp-ileri-seviye\012_KeyPressEventExample\bin\Debug\012_KeyPressEventExample.exe.config
+C:\Users\mypc\source\repos\csharp-ileri-seviye\012_KeyPressEventExample\bin\Debug\012_KeyPressEventExample.exe
+C:\Users\mypc\source\repos\csharp-ileri-seviye\012_KeyPressEventExample\bin\Debug\012_KeyPressEventExample.pdb
+C:\Users\mypc\source\repos\csharp-ileri-seviye\012_KeyPressEventExample\obj\Debug\012_KeyPressEventExample.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\csharp-ileri-seviye\012_KeyPressEventExample\obj\Debug\012_KeyPressEventExample.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\csharp-ileri-seviye\012_KeyPressEventExample\obj\Debug\012_KeyPressEventExample.exe
+C:\Users\mypc\source\repos\csharp-ileri-seviye\012_KeyPressEventExample\obj\Debug\012_KeyPressEventExample.pdb
